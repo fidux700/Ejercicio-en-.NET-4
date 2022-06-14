@@ -1,6 +1,6 @@
 # Piedra-papel-o-tijera
 Cuarto proyecto .NET FRAMEWORK (Consola)
-
+Simulación del juego hecho en consola.
 
 --ESPAÑOL--
 
