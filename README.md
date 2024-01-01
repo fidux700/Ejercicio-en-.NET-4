@@ -1,5 +1,5 @@
-# Piedra-papel-o-tijera
-Cuarto proyecto .NET FRAMEWORK (Consola)
+# Ejercicio en .NET (Piedra, Papel, Tijera)
+Proyecto .NET FRAMEWORK (Consola)
 Simulación del juego hecho en consola.
 
 --ESPAÑOL--
